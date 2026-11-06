@@ -1,0 +1,57 @@
+{
+  "duration_months": 4,
+  "hours_per_fte_month": 160,
+  "contingency_rate": 0.2,
+  "roles": [
+    [
+      "Project Manager",
+      2500,
+      120
+    ],
+    [
+      "Business / System Analyst",
+      2200,
+      60
+    ],
+    [
+      "UX/UI Designer",
+      2000,
+      120
+    ],
+    [
+      "Backend Developer",
+      3500,
+      200
+    ],
+    [
+      "iOS Developer",
+      3200,
+      160
+    ],
+    [
+      "Android Developer",
+      3200,
+      160
+    ],
+    [
+      "QA Engineer",
+      1800,
+      160
+    ],
+    [
+      "DevOps / Security",
+      3000,
+      40
+    ]
+  ],
+  "fixed_costs": [
+    [
+      "Test infrastructure and notifications",
+      50000
+    ],
+    [
+      "Devices, labs and store fees",
+      30000
+    ]
+  ]
+}

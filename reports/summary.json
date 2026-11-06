@@ -1,0 +1,13 @@
+{
+  "data_kind": "synthetic demonstration; not production results",
+  "as_of_exclusive_utc": "2026-02-01 00:00:00",
+  "exposed_users": 300,
+  "mature_funnel_users": 240,
+  "excluded_immature_funnel_users": 60,
+  "activated_users": 83,
+  "activation_rate": 0.3458333333333333,
+  "d14_eligible_activated_users": 48,
+  "retained_d14_users": 20,
+  "retention_d14": 0.4166666666666667,
+  "repeated_event_deliveries": 47
+}
